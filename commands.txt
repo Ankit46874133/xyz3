@@ -8,3 +8,4 @@ git restore
 git log --oneline
 git config --global user.name
 git checkout -b "dev"
+New CMD
