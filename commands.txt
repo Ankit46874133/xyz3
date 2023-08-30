@@ -1,0 +1,10 @@
+git init
+git status
+git add
+git rm --cache
+git commit -m
+git log
+git restore
+git log --oneline
+git config --global user.name
+git checkout -b "dev"
